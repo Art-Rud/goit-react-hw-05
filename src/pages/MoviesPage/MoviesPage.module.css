@@ -1,0 +1,9 @@
+.loader {
+  position: absolute;
+  top: 100px;
+}
+.form {
+  text-align: start;
+  display: flex;
+  gap: 120px;
+}

@@ -1,0 +1,23 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.item {
+  display: flex;
+  border: 1px solid white;
+  border-radius: 8px;
+  justify-content: center;
+  width: 400px;
+}
+input {
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 1px;
+  background-color: grey;
+}
+.title {
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
